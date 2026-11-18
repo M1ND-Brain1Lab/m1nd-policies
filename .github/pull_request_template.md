@@ -1,0 +1,2 @@
+- [+] First commit title, exactly as written
+- [*] Second commit title
